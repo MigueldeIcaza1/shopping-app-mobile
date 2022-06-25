@@ -3,13 +3,20 @@ Shopping Mobile app task using react native
 
 Steps:
 1. Install Node.JS (Version > 10)
+
     download from here https://nodejs.org/en/
+
     
 2. Install Expo
+````
     npm install -g expo-cli
+````
     
 3. Open the solution in VS code and type the following command in VS code terminal
+````
     npm start
+````
+
     It starts the app in browser on http://localhost:19002/
     
 4. To run the application in Web browser click on 'Run in Web Browser'
