@@ -4,7 +4,7 @@ Shopping Mobile app task using react native
 Steps:
 1. Install Node.JS (Version > 10)
 
-    download from here https://nodejs.org/en/
+    Download url: https://nodejs.org/en/
 
     
 2. Install Expo
@@ -31,6 +31,6 @@ Steps:
       b. In the url http://localhost:19002/, click on Run on Android device/emulator or Run on iOS simulator 
 
 
-************Happy coading************
+************Happy coding************
       
       
